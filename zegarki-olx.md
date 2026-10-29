@@ -14,6 +14,7 @@ Ostatnia aktualizacja: 2026-10-29
 | 6 | Tissot | T-Touch II Titanium – T047.420.47.207.01 (prawdopodobnie) | kwarc ETA E48.311, dotykowe funkcje | ok. 42–43 | używany, bdb, serwis autoryzowany 2025 | pełny + 2 paski | 1 425 | – (preferuje odbiór osobisty) | – | tytan, szafir, 10 bar |
 | 7 | Zeppelin | Atlantic Automatic 8452-3 | automat, ETA 2824-2 / Sellita SW200 | 41 × 11 | używany, koperta idealna, pasek zużyty | pełny (pudełko, karta, ulotki) | 1 300 (do neg.) | Wrocław | – | szafir, 5 ATM, Made in Germany |
 | 8 | Orient | Sun & Moon Open Heart – RA-AS0101S10B (prawdopodobnie) | automat F6L24 (wg sklepów) | 41,5 | używany (brak szczegółów) | brak informacji | 1 150 (do neg.) | – | – | tylko 2 zdjęcia, bardzo skąpy opis |
+| 9 | Orient | Retro Future Camera 70th Anniversary – RA-AR0204G00B | automat F6S22, open heart | 40,8 | nowy, z metką | pudełko 70th (karta/papiery do potwierdzenia) | 1 800 (bez „do neg.”) | Wrocław / Warszawa | – | LE nr 54/2300, model z 2020 r., wycofany |
 
 ## Szczegóły ofert
 
@@ -181,6 +182,28 @@ Ostatnia aktualizacja: 2026-10-29
     - czy wskaźnik słońca i księżyca przestawia się poprawnie (24 h),
     - dokładność chodu,
     - czy bransoleta jest skrócona (czy są zapasowe ogniwa).
+
+### #9 – Orient Retro Future Camera 70th Anniversary Limited Edition (RA-AR0204G00B)
+- **Cena:** 1 800 zł (bez oznaczenia „do negocjacji”, przycisk „Negocjuj cenę” aktywny); z Pakietem Ochronnym OLX 1 870 zł + dostawa od 10,99 zł
+- **Link:** brak (do uzupełnienia)
+- **Data dodania na OLX:** 2026-10-26
+- **Lokalizacja:** odbiór osobisty we Wrocławiu lub w Warszawie (preferowany); wysyłka po wcześniejszym kontakcie
+- **Mechanizm:** japoński automat Orient F6S22, z ręcznym naciągiem
+- **Koperta:** stal z brązową powłoką PVD, 40,8 mm (wg większości źródeł); zakręcany dekiel; wodoszczelność 50 m
+- **Szkło:** mineralne
+- **Tarcza:** brązowa z gradientem, motyw przysłony aparatu (nawiązanie do aparatów z lat 50.), otwarte serce na 9, mały sekundnik na 6, luma Neobrite; bezel z podziałką minutową
+- **Pasek:** brązowy, skórzany (fakturowany)
+- **Limitacja:** 2300 szt. na świecie, egzemplarz nr 54
+- **Rok premiery:** 2020 (seria Revival z okazji 70-lecia Orienta); obecnie wycofany z produkcji
+- **Stan:** nowy, nienoszony, z oryginalną metką (nietrafiony prezent)
+- **Komplet:** oryginalne pudełko 70th Anniversary; karta gwarancyjna i paragon do potwierdzenia
+- **Moje uwagi / ocena ceny:**
+  - Cena katalogowa w Japonii to 58 000 jenów netto, czyli ok. 1 500–1 600 zł. W Indonezji cena katalogowa wynosiła 8,8 mln rupii (ok. 2 100 zł), a teraz jest przeceniony do ok. 5,7 mln rupii. 1 800 zł za nowy egzemplarz limitowany z niskim numerem to cena rynkowa. Uczciwa, ale bez okazji. Szkło mineralne przy tej cenie to minus.
+  - Ma sens, jeśli zależy ci na tym konkretnym, kolekcjonerskim modelu. Do negocjacji proponowałbym ok. 1 500–1 600 zł.
+  - Do sprawdzenia:
+    - numer limitacji na dekielku (054/2300),
+    - czy w komplecie jest karta gwarancyjna (data zakupu),
+    - czy powłoka PVD nie ma rys (nowy, ale model z 2020 r. mógł długo leżeć w sklepie).
 
 <!-- Każda oferta w osobnej sekcji, wg szablonu poniżej -->
 
