@@ -38,6 +38,16 @@ Kryteria: budżet do ok. 2 000 zł, zegarek na co dzień i uniwersalny, mechaniz
 
 Odradzam: #3 YSL, #11 Bergstern, #2 Casio (za drogie względem wartości) oraz #1 Seiko One Piece i #9 Orient Camera (motyw lub styl kolekcjonerski zamiast uniwersalnego).
 
+### Jakość do ceny, utrzymanie wartości, okazja
+
+| Kryterium | Najlepszy | Dlaczego |
+|-----------|-----------|----------|
+| Jakość do ceny | #6 Tissot T-Touch II Titanium | tytan, szafir, Swiss Made, wiele funkcji, autoryzowany serwis 2025, komplet + 2 paski |
+| Okazyjna cena | #6 Tissot (ok. 30–35% ceny nowego, ok. 1 045 EUR) | dalej #1 Seiko (poniżej ceny nowego, z gwarancją) i #7 Zeppelin (ok. 50–60% ceny nowego) |
+| Utrzymanie wartości | #1 Seiko 5 One Piece Sanji | numerowana limitacja 5000 szt., kolaboracja z popularnym anime, pełny komplet i faktura; dalej #6 Tissot (już mocno potaniał, więc niewiele straci) |
+
+Werdykt: jeśli kupować tylko jeden, to **#6 Tissot**, bo wygrywa w dwóch z trzech kategorii. Na wartość najlepiej powinien trzymać się **#1 Seiko**, ale to zegarek z motywem anime, nie uniwersalny. Ryzyko przy Tissocie: to zegarek elektroniczny, więc ewentualna naprawa modułu może być droga.
+
 ## Szczegóły ofert
 
 ### #1 – Seiko 5 Sports One Piece „Sanji” Limited Edition (SRPH69K1)
