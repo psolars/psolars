@@ -10,6 +10,7 @@ Ostatnia aktualizacja: 2026-10-29
 | 2 | Casio | Pro Trek PRW-6000Y-1 (czarno-pomarańczowy) | kwarc, Tough Solar + Multiband 6 | ok. 58 (niepotwierdzone) | używany, bardzo dobry | brak pudełka | 1 000 (brak oznaczenia „do neg.”) | – | – | Triple Sensor, model z 2014 r. |
 | 3 | Yves Saint Laurent (licencja) | „Tiger Eye”, koperta owalna / UFO, ref. brak | wg OLX mechaniczny – do weryfikacji (YSL to zwykle kwarc) | 39 bez koronki | używany, rysy, uszkodzenia tarczy | brak (nowy pasek Morellato) | 1 200 (do neg.) | – | – | brak historii serwisowej |
 | 4 | Jaguar (Swiss) | Acamar chronograf J968/2 | kwarc, chronograf | 42 | do potwierdzenia (sprzedaje firma) | pudełko Jaguar na zdjęciach | 1 099,99 | – | – | szafir, 5 bar, Swiss Made |
+| 5 | Atlantic | Worldmaster Original 21 Jewels (lata 60.) | mechaniczny, naciąg ręczny | 37–40 (wg OLX) | używany, po serwisie (wg sprzedającego) | brak, bez paska | 1 200 (do neg.) | – | – | vintage, szkło akrylowe |
 
 ## Szczegóły ofert
 
@@ -88,6 +89,24 @@ Ostatnia aktualizacja: 2026-10-29
   - Jeśli jest używany, cena jest za wysoka. W takim przypadku celowałbym w ok. 700–800 zł.
   - Zapytaj: nowy czy używany, czy jest karta gwarancyjna, czy wystawią fakturę. Poproś o zdjęcia faktycznego egzemplarza zamiast katalogowych.
   - Prefiks „U” w „UJ968/2” to najpewniej wewnętrzny kod sprzedawcy, właściwa referencja to J968/2.
+
+### #5 – Atlantic Worldmaster Original 21 Jewels (lata 60.)
+- **Cena:** 1 200 zł (do negocjacji); bez Pakietu Ochronnego OLX (kontakt telefoniczny / wiadomość)
+- **Link:** brak (do uzupełnienia)
+- **Data dodania na OLX:** 2026-10-27
+- **Lokalizacja:** brak danych
+- **Mechanizm:** szwajcarski, mechaniczny, naciąg ręczny, 21 kamieni, Incabloc. Kaliber niepotwierdzony; w podobnych egzemplarzach spotyka się Unitas 6300N
+- **Koperta:** okrągła, chromowana lub stalowa (brak danych), 37–40 mm wg parametru OLX; napisy na tarczy: Waterproof, Antimagnetic
+- **Szkło:** akrylowe
+- **Tarcza:** kremowo-srebrna, złote indeksy i cyfry 12 i 6, aplikowane logo Atlantic, czerwony grot sekundnika. Widoczne kropki i przebarwienia (patyna)
+- **Pasek:** brak (na zdjęciach sama koperta)
+- **Rok produkcji:** lata 60. (wg sprzedającego)
+- **Stan:** używany; wg sprzedającego „świeżo po profesjonalnym serwisie”
+- **Komplet:** brak
+- **Moje uwagi / ocena ceny:**
+  - Na eBay podobne egzemplarze sprzedawały się za ok. 190–290 USD, czyli mniej więcej 750–1 150 zł. 1 200 zł to górna granica. Ma sens tylko wtedy, gdy serwis jest udokumentowany (rachunek od zegarmistrza).
+  - Bez dowodu serwisu i paska celowałbym w ok. 800–900 zł.
+  - Do sprawdzenia: rachunek lub potwierdzenie serwisu, zdjęcie mechanizmu (kaliber, czy mechanizm jest oryginalny), czy tarcza nie była odnawiana, czy koperta nie ma przetarć chromu, dokładność chodu.
 
 <!-- Każda oferta w osobnej sekcji, wg szablonu poniżej -->
 
