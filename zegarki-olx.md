@@ -208,6 +208,15 @@ Kwarcowe:
     - dokładność chodu po pełnym nakręceniu,
     - czy wahnik pracuje cicho,
     - czy tarcza na żywo jest granatowa (na jednym zdjęciu wygląda na szarą, pewnie przez światło).
+- **Analiza zdjęć (2026-10-29):**
+  - Na dekielku są napisy: Zeppelin, Atlantic, Made in Germany, WR 5 ATM, Sapphire Crystal, All Stainless Steel, ref. 8452-3 oraz numer egzemplarza.
+  - Na wahniku widać „Twenty-six jewels, Swiss Made”. Złocony wahnik i budowa mechanizmu odpowiadają Sellicie SW200-1, więc kaliber jest praktycznie potwierdzony.
+  - Zegarek kupiono w Polsce, w sieci „Jubiler” (karta gwarancyjna Jubiler i karta stałego klienta). Gwarancja jest więc polska, trzeba sprawdzić datę i pieczątkę na karcie.
+  - Pudełko oryginalne Zeppelin (z repliką biletu lotniczego Zeppelina), instrukcja Zeppelin Automatik.
+  - Tarcza jest ciemna, w zależności od światła granatowa albo antracytowa.
+  - **Do wyjaśnienia:** na zdjęciach 5, 7 i 8 widać ciemną plamkę po lewej od logo ZEPPELIN, w tym samym miejscu na kilku ujęciach. Może to być odbicie lub kurz na szkle, ale też zabrudzenie pod szkłem lub na tarczy. Obejrzyj przy odbiorze pod różnymi kątami.
+  - Pasek: mocno wytarty od spodu, przy dziurkach przebarwiony. Potwierdza, że trzeba go wymienić.
+  - Koperta i szkło na zdjęciach bez widocznych uszkodzeń.
 
 ### #8 – Orient Sun & Moon Open Heart (RA-AS0101S10B, prawdopodobnie)
 - **Cena:** 1 150 zł (do negocjacji); z Pakietem Ochronnym OLX 1 206,90 zł + dostawa od 10,99 zł
