@@ -13,7 +13,7 @@ Ostatnia aktualizacja: 2026-10-29
 | 5 | Atlantic | Worldmaster Original 21 Jewels (lata 60.) | mechaniczny, naciąg ręczny | 37–40 (wg OLX) | używany, po serwisie (wg sprzedającego) | brak, bez paska | 1 200 (do neg.) | – | – | vintage, szkło akrylowe |
 | 6 | Tissot | T-Touch II Titanium – T047.420.47.207.01 (prawdopodobnie) | kwarc ETA E48.311, dotykowe funkcje | ok. 42–43 | używany, bdb, serwis autoryzowany 2025 | pełny + 2 paski | 1 425 | – (preferuje odbiór osobisty) | – | tytan, szafir, 10 bar |
 | 7 | Zeppelin | Atlantic Automatic 8452-3 | automat, ETA 2824-2 / Sellita SW200 | 41 × 11 | używany, koperta idealna, pasek zużyty | pełny (pudełko, karta, ulotki) | 1 300 (do neg.) | Wrocław | – | szafir, 5 ATM, Made in Germany |
-| 8 | Orient | Sun & Moon Open Heart – RA-AS0101S10B (prawdopodobnie) | automat F6B24 / F6L24 (do potwierdzenia) | 41,5 | używany (brak szczegółów) | brak informacji | 1 150 (do neg.) | – | – | tylko 2 zdjęcia, bardzo skąpy opis |
+| 8 | Orient | Sun & Moon Open Heart – RA-AS0101S10B (prawdopodobnie) | automat F6L24 (wg sklepów) | 41,5 | używany (brak szczegółów) | brak informacji | 1 150 (do neg.) | – | – | tylko 2 zdjęcia, bardzo skąpy opis |
 
 ## Szczegóły ofert
 
