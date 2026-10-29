@@ -12,6 +12,7 @@ Ostatnia aktualizacja: 2026-10-29
 | 4 | Jaguar (Swiss) | Acamar chronograf J968/2 | kwarc, chronograf | 42 | do potwierdzenia (sprzedaje firma) | pudełko Jaguar na zdjęciach | 1 099,99 | – | – | szafir, 5 bar, Swiss Made |
 | 5 | Atlantic | Worldmaster Original 21 Jewels (lata 60.) | mechaniczny, naciąg ręczny | 37–40 (wg OLX) | używany, po serwisie (wg sprzedającego) | brak, bez paska | 1 200 (do neg.) | – | – | vintage, szkło akrylowe |
 | 6 | Tissot | T-Touch II Titanium – T047.420.47.207.01 (prawdopodobnie) | kwarc ETA E48.311, dotykowe funkcje | ok. 42–43 | używany, bdb, serwis autoryzowany 2025 | pełny + 2 paski | 1 425 | – (preferuje odbiór osobisty) | – | tytan, szafir, 10 bar |
+| 7 | Zeppelin | Atlantic Automatic 8452-3 | automat, ETA 2824-2 / Sellita SW200 | 41 × 11 | używany, koperta idealna, pasek zużyty | pełny (pudełko, karta, ulotki) | 1 300 (do neg.) | Wrocław | – | szafir, 5 ATM, Made in Germany |
 
 ## Szczegóły ofert
 
@@ -133,6 +134,27 @@ Ostatnia aktualizacja: 2026-10-29
     - potwierdzenie serwisu (dokument z serwisu),
     - numer seryjny na dekielku zgodny z kartą gwarancyjną.
   - Tytan rysuje się łatwiej niż stal. Obejrzyj dokładnie bezel i kopertę.
+
+### #7 – Zeppelin Atlantic Automatic 8452-3
+- **Cena:** 1 300 zł (do negocjacji); z Pakietem Ochronnym OLX 1 363,80 zł + dostawa od 10,99 zł
+- **Link:** brak (do uzupełnienia)
+- **Data dodania na OLX:** 2026-10-27
+- **Lokalizacja:** Wrocław (odbiór osobisty: Oporów lub Rynek); możliwa wysyłka OLX
+- **Marka:** Zeppelin to niemiecka marka (POINTtec, Monachium); na tarczy napis „Made in Germany”, mechanizm szwajcarski
+- **Mechanizm:** szwajcarski automat, 26 kamieni wg sprzedającego. Wg sklepów ETA 2824-2 albo Sellita SW200; 26 kamieni wskazuje raczej na SW200-1. Przeszklony dekiel
+- **Koperta:** stal szlachetna, 41 mm, grubość 11 mm; wodoszczelność 5 ATM
+- **Szkło:** szafirowe
+- **Tarcza:** granatowa (wg ref. -3), indeksy w kolorze srebrnym lub różowym, data na 3, logo Zeppelin, napis „Atlantic automatic”
+- **Pasek:** brązowy, skórzany, z kontrastowym przeszyciem, 20 mm; wyraźnie zużyty (do wymiany)
+- **Stan:** używany; wg sprzedającego koperta, tarcza i szkło w stanie idealnym, bez uszkodzeń
+- **Komplet:** oryginalne pudełko, karta gwarancyjna, instrukcja, ulotki z salonu
+- **Moje uwagi / ocena ceny:**
+  - Nowy w sklepach kosztuje ok. 489–609 EUR (ok. 2 100–2 600 zł) lub 528–553 GBP. 1 300 zł za egzemplarz z kompletem i zadbaną kopertą to dobra cena, czyli ok. 50–60% ceny nowego. Odejmij ok. 100–200 zł na nowy pasek. Na początek negocjacji proponowałbym ok. 1 150 zł.
+  - Do sprawdzenia:
+    - data zakupu na karcie gwarancyjnej (może być jeszcze na gwarancji),
+    - dokładność chodu po pełnym nakręceniu,
+    - czy wahnik pracuje cicho,
+    - czy tarcza na żywo jest granatowa (na jednym zdjęciu wygląda na szarą, pewnie przez światło).
 
 <!-- Każda oferta w osobnej sekcji, wg szablonu poniżej -->
 
