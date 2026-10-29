@@ -20,6 +20,24 @@ Ostatnia aktualizacja: 2026-10-29
 | 12 | Maurice Lacroix | Les Classiques Chronograph Moonphase – LC1048 | kwarc szwajcarski, chronograf + fazy księżyca | 40 | używany, bdb, pasek do wymiany | brak (tylko oryginalna klamra ML) | 1 399 (do neg.) | – | – | szafir, 5 ATM, nowa bateria |
 | 13 | Citizen | Tsuyosa 37 „Time Slip” LE – NJ0200-50E | automat Citizen 8210 | 37 | używany, bdb, drobne ślady | pełny + faktura + ogniwa | 1 400 | – | – | LE 8000 szt. (nienumerowane), szafir, 5 bar |
 
+## Rekomendacja (2026-10-29)
+
+Kryteria: budżet do ok. 2 000 zł, zegarek na co dzień i uniwersalny, mechanizm bez znaczenia, pierwszy zegarek, rozmiar nieznany (więc bezpiecznie ok. 40–42 mm).
+
+1. **#7 Zeppelin Atlantic 8452-3 (1 300 zł, cel ok. 1 150 zł)**: główny wybór.
+   - Klasyczny wygląd pasuje i do koszuli, i do jeansów.
+   - 41 mm × 11 mm to bezpieczny rozmiar na pierwszy zegarek.
+   - Ma szafir, szwajcarski automat i pełny komplet, a kosztuje ok. 50–60% ceny nowego.
+   - Odbiór we Wrocławiu.
+   - Minusy: pasek do wymiany (najlepiej od razu wziąć skórzany albo stalową bransoletę 20 mm); wodoszczelność tylko 5 ATM; automat stanie po ok. 1,5–2 dniach odłożenia.
+2. **#6 Tissot T-Touch II Titanium (1 425 zł)**: jeśli wolisz sportowy i bezobsługowy.
+   - Tytan jest lekki, ma 10 bar, kwarc i serwis z 2025 r.
+   - Pełny komplet, w tym dwa paski (gumowy i skórzany).
+   - Minusy: duży (ok. 43 mm, gruby), techniczny wygląd, mniej elegancki do koszuli.
+3. **#13 Citizen Tsuyosa 37 (tylko jeśli zejdzie do ok. 1 100 zł)**: stalowa bransoleta, szafir, bardzo uniwersalny. 37 mm to dobry rozmiar przy szczupłym nadgarstku.
+
+Odradzam: #3 YSL, #11 Bergstern, #2 Casio (za drogie względem wartości) oraz #1 Seiko One Piece i #9 Orient Camera (motyw lub styl kolekcjonerski zamiast uniwersalnego).
+
 ## Szczegóły ofert
 
 ### #1 – Seiko 5 Sports One Piece „Sanji” Limited Edition (SRPH69K1)
