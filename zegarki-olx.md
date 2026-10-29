@@ -19,6 +19,7 @@ Ostatnia aktualizacja: 2026-10-29
 | 11 | Bergstern | Active Worldtimer / GMT – B037G184 | kwarc szwajcarski | 46 | używany, jak nowy (ok. 10 razy noszony) | pełny + paragon z Apart | 1 000 („cena ostateczna”) | Wrocław | – | szafir, 100 m, nowa bateria |
 | 12 | Maurice Lacroix | Les Classiques Chronograph Moonphase – LC1048 | kwarc szwajcarski, chronograf + fazy księżyca | 40 | używany, bdb, pasek do wymiany | brak (tylko oryginalna klamra ML) | 1 399 (do neg.) | – | – | szafir, 5 ATM, nowa bateria |
 | 13 | Citizen | Tsuyosa 37 „Time Slip” LE – NJ0200-50E | automat Citizen 8210 | 37 | używany, bdb, drobne ślady | pełny + faktura + ogniwa | 1 400 | – | – | LE 8000 szt. (nienumerowane), szafir, 5 bar |
+| 14 | Bulova | Oceanographer „Devil Diver” – 96B322 (zielony) | automat Miyota 821D | 44 × 14,4 | używany, bdb (Loombard) | pudełko + 5 ogniw, bez papierów | 1 499 | Wrocław, al. Kromera 6 (Loombard) | – | nurek 200 m, szafir „box”, bransoleta stalowa, wycofany |
 
 ## Rekomendacja (2026-10-29)
 
@@ -337,6 +338,22 @@ Kwarcowe:
   - Limitacja 8000 nienumerowanych sztuk raczej nie podnosi wartości. Rozsądnie byłoby ok. 1 000–1 100 zł.
   - Zanim kupisz, sprawdź, czy da się go jeszcze kupić nowego w sklepie (np. citizenwatch.eu). Jeśli tak, nie ma sensu brać używanego za tę cenę.
   - Do sprawdzenia: data na fakturze (gwarancja Citizen), rysy na polerowanych fazach koperty i bransolety.
+
+### #14 – Bulova Oceanographer „Devil Diver” 96B322 (Loombard, nie OLX)
+- **Cena:** 1 499 zł; odbiór osobisty bezpłatnie, wysyłka 5–8,99 zł
+- **Sprzedawca:** Loombard, punkt przy al. Kromera 6, 51-163 Wrocław, tel. 71 321 53 82; 1 szt.
+- **Mechanizm:** japoński automat Miyota 821D (wg Bulova), ok. 42 h rezerwy, ręczny naciąg; 21 600 A/h. Stop-sekunda wg jednego sklepu, ale 821D zwykle jej nie ma. Wg producenta Miyota ok. -20/+40 s/dobę
+- **Koperta:** stal, 44 mm, grubość 14,4 mm, uszy 20 mm; jednokierunkowy bezel (czarno-zielony); wodoszczelność 200 m
+- **Szkło:** szafirowe, podwójnie wypukłe („box”)
+- **Tarcza:** zielona, kropkowe indeksy z lumą, data na 3; nawiązanie do Devil Divera z lat 70.
+- **Bransoleta:** stalowa, w zestawie 5 dodatkowych ogniw
+- **Stan:** używany, bardzo dobry, delikatne ślady użytkowania
+- **Komplet:** pudełko i ogniwa; brak papierów / karty gwarancyjnej
+- **Model:** wycofany z produkcji
+- **Moje uwagi / ocena ceny:**
+  - Nowy kosztował ok. 638–850 USD (przeceny w USA) i 1 050 CAD w cenie katalogowej. Używany wychodzi ok. 1 499 zł, czyli ok. 410 USD. To cena przyzwoita, ale nie okazja. Spróbuj negocjować w lombardzie do ok. 1 300 zł.
+  - Zakup od firmy daje lepszą ochronę niż od osoby prywatnej: rękojmię, a przy zamówieniu online 14 dni na zwrot. Zapytaj o warunki przy zakupie w punkcie.
+  - Duży i gruby (44 × 14,4 mm). Przymierz przed zakupem.
 
 <!-- Każda oferta w osobnej sekcji, wg szablonu poniżej -->
 
