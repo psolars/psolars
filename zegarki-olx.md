@@ -13,6 +13,7 @@ Ostatnia aktualizacja: 2026-10-29
 | 5 | Atlantic | Worldmaster Original 21 Jewels (lata 60.) | mechaniczny, naciąg ręczny | 37–40 (wg OLX) | używany, po serwisie (wg sprzedającego) | brak, bez paska | 1 200 (do neg.) | – | – | vintage, szkło akrylowe |
 | 6 | Tissot | T-Touch II Titanium – T047.420.47.207.01 (prawdopodobnie) | kwarc ETA E48.311, dotykowe funkcje | ok. 42–43 | używany, bdb, serwis autoryzowany 2025 | pełny + 2 paski | 1 425 | – (preferuje odbiór osobisty) | – | tytan, szafir, 10 bar |
 | 7 | Zeppelin | Atlantic Automatic 8452-3 | automat, ETA 2824-2 / Sellita SW200 | 41 × 11 | używany, koperta idealna, pasek zużyty | pełny (pudełko, karta, ulotki) | 1 300 (do neg.) | Wrocław | – | szafir, 5 ATM, Made in Germany |
+| 8 | Orient | Sun & Moon Open Heart – RA-AS0101S10B (prawdopodobnie) | automat F6B24 / F6L24 (do potwierdzenia) | 41,5 | używany (brak szczegółów) | brak informacji | 1 150 (do neg.) | – | – | tylko 2 zdjęcia, bardzo skąpy opis |
 
 ## Szczegóły ofert
 
@@ -155,6 +156,31 @@ Ostatnia aktualizacja: 2026-10-29
     - dokładność chodu po pełnym nakręceniu,
     - czy wahnik pracuje cicho,
     - czy tarcza na żywo jest granatowa (na jednym zdjęciu wygląda na szarą, pewnie przez światło).
+
+### #8 – Orient Sun & Moon Open Heart (RA-AS0101S10B, prawdopodobnie)
+- **Cena:** 1 150 zł (do negocjacji); z Pakietem Ochronnym OLX 1 206,90 zł + dostawa od 10,99 zł
+- **Link:** brak (do uzupełnienia)
+- **Data dodania na OLX:** 2026-10-26
+- **Lokalizacja:** brak danych
+- **Referencja:** w ogłoszeniu brak. Z wyglądu (biała tarcza, otwarte serce na 9, wskaźnik dnia i nocy „sun & moon” na 6, różowozłote indeksy i koronka, dwukolorowa bransoleta) pasuje do RA-AS0101S10B
+- **Mechanizm:** japoński automat Orient (wg sklepów kaliber F6L24), z ręcznym naciągiem i stop-sekundą; rezerwa chodu ok. 48 h
+- **Koperta:** stal, ok. 41,5 mm; wodoszczelność 30 m (wg sklepów)
+- **Szkło:** niepotwierdzone (sprawdzić)
+- **Tarcza:** biała z promienistym wykończeniem, otwarte serce (widoczny balans), wskaźnik dnia i nocy (słońce i księżyc, 24 h), różowozłote indeksy i wskazówki
+- **Bransoleta:** stalowa, dwukolorowa: stal i różowe złoto (powłoka)
+- **Stan:** używany; na zdjęciach brak widocznych uszkodzeń, ale zdjęcia są tylko 2 i niskiej jakości
+- **Komplet:** brak informacji (pewnie sam zegarek)
+- **Opis od sprzedającego:** ogólnikowy, bez modelu, wieku i historii
+- **Moje uwagi / ocena ceny:**
+  - Nie sprawdzałem ceny nowego w Polsce. Bez pudełka, papierów i jakiejkolwiek historii 1 150 zł to moim zdaniem za dużo. Celowałbym w ok. 800–900 zł.
+  - Poproś o:
+    - zdjęcie dekla (referencja i numer seryjny),
+    - zdjęcia z bliska koperty i bransolety (różowa powłoka może być przetarta na ogniwach),
+    - informację o wieku zegarka i o tym, czy był serwisowany.
+  - Do sprawdzenia:
+    - czy wskaźnik słońca i księżyca przestawia się poprawnie (24 h),
+    - dokładność chodu,
+    - czy bransoleta jest skrócona (czy są zapasowe ogniwa).
 
 <!-- Każda oferta w osobnej sekcji, wg szablonu poniżej -->
 
