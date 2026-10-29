@@ -7,6 +7,7 @@ Ostatnia aktualizacja: 2026-10-29
 | # | Marka | Model / ref. | Mechanizm | Koperta (mm) | Stan | Komplet | Cena (zł) | Lokalizacja | Link | Uwagi |
 |---|-------|--------------|-----------|--------------|------|---------|-----------|-------------|------|-------|
 | 1 | Seiko | 5 Sports One Piece „Sanji” – SRPH69K1 | automat 4R36 | 42,5 (typowo dla 5KX) | używany, bardzo dobry | pełny (pudełko, faktura, papiery) | 1 250 (do neg.) | Wrocław | – | LE 4215/5000, gwarancja do ~09.2027 |
+| 2 | Casio | Pro Trek PRW-6000Y-1 (czarno-pomarańczowy) | kwarc, Tough Solar + Multiband 6 | ok. 58 (niepotwierdzone) | używany, bardzo dobry | brak pudełka | 1 000 (brak oznaczenia „do neg.”) | – | – | Triple Sensor, model z 2014 r. |
 
 ## Szczegóły ofert
 
@@ -29,6 +30,24 @@ Ostatnia aktualizacja: 2026-10-29
   - Zagraniczni sprzedawcy wystawiają ten model za ok. 435–730 USD, czyli mniej więcej 1 750–2 900 zł. 1 250 zł to wyraźnie mniej niż cena nowego, a jest komplet, faktura i gwarancja. Wygląda na dobrą ofertę.
   - Do sprawdzenia: czy na fakturze jest nazwa Time Trend i data zakupu (potrzebne do gwarancji); numer limitacji na dekielku; czy w komplecie jest karta z kodem do ilustracji; czy na kopercie i bezelu nie ma przetarć powłoki IP (to typowe zużycie przy czarnej powłoce).
   - Na początek negocjacji można zaproponować ok. 1 100 zł.
+
+### #2 – Casio Pro Trek PRW-6000Y-1
+- **Cena:** 1 000 zł (bez oznaczenia „do negocjacji”, ale przycisk „Negocjuj cenę” jest aktywny); z Pakietem Ochronnym OLX 1 050 zł + dostawa od 9,99 zł
+- **Link:** brak (do uzupełnienia)
+- **Data dodania na OLX:** 2026-10-28, 13:36
+- **Lokalizacja:** brak danych; wysyłka lub odbiór osobisty
+- **Mechanizm:** kwarc z ładowaniem solarnym Tough Solar; synchronizacja radiowa Multiband 6 (Wave Ceptor)
+- **Funkcje:** Triple Sensor (kompas, barometr / wysokościomierz, termometr), czas światowy, przesuwanie wskazówek, żeby odsłonić wyświetlacz, analogowo-cyfrowy wyświetlacz
+- **Koperta:** żywica z czarnym bezelem; wodoszczelność 10 bar (widoczne na tarczy). Wymiary niepotwierdzone, jeden sklep podaje dla bliźniaczego wariantu ok. 57,9 × 12,8 mm
+- **Szkło:** niepotwierdzone (szafir ma wariant PRW-6000SYT, ten raczej nie)
+- **Tarcza:** czarna z pomarańczowymi akcentami, wyświetlacz LCD
+- **Pasek:** pasek z żywicy wzmacnianej włóknem węglowym (typowy dla wersji „Y”), czarny
+- **Rok premiery modelu:** 2014
+- **Stan:** używany; wg sprzedającego technicznie 100% sprawny, wizualnie bardzo dobry, drobne ślady użytkowania
+- **Komplet:** brak oryginalnego pudełka; o papierach i instrukcji brak informacji
+- **Moje uwagi / ocena ceny:**
+  - Model ma już ponad 10 lat i ma następcę, PRW-6100. Nie ma pudełka. 1 000 zł za używany egzemplarz wydaje się raczej wysoko. Na początek negocjacji proponowałbym ok. 750–800 zł.
+  - Do sprawdzenia: czy synchronizuje się z sygnałem radiowym (np. DCF77 z Niemiec), wskazanie naładowania (H/M/L) po leżeniu na świetle, kalibrację kompasu i ustawienie wskazówek w pozycji wyjściowej, pęknięcia paska przy uszach koperty, rysy na szkle i bezelu.
 
 <!-- Każda oferta w osobnej sekcji, wg szablonu poniżej -->
 
