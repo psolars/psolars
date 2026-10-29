@@ -15,6 +15,7 @@ Ostatnia aktualizacja: 2026-10-29
 | 7 | Zeppelin | Atlantic Automatic 8452-3 | automat, ETA 2824-2 / Sellita SW200 | 41 × 11 | używany, koperta idealna, pasek zużyty | pełny (pudełko, karta, ulotki) | 1 300 (do neg.) | Wrocław | – | szafir, 5 ATM, Made in Germany |
 | 8 | Orient | Sun & Moon Open Heart – RA-AS0101S10B (prawdopodobnie) | automat F6L24 (wg sklepów) | 41,5 | używany (brak szczegółów) | brak informacji | 1 150 (do neg.) | – | – | tylko 2 zdjęcia, bardzo skąpy opis |
 | 9 | Orient | Retro Future Camera 70th Anniversary – RA-AR0204G00B | automat F6S22, open heart | 40,8 | nowy, z metką | pudełko 70th (karta/papiery do potwierdzenia) | 1 800 (bez „do neg.”) | Wrocław / Warszawa | – | LE nr 54/2300, model z 2020 r., wycofany |
+| 10 | Glycine | Combat Sub 42 „Titian” – GL0092 | automat szwajcarski (GL224 / baza Sellita SW200-1, do potwierdzenia) | 42 | używany, drobne rysy | pełny (pudełka, dokumenty) | 2 000 (bez „do neg.”) | – | – | nurek 20 ATM, szafir, model z 2021 r. |
 
 ## Szczegóły ofert
 
@@ -204,6 +205,29 @@ Ostatnia aktualizacja: 2026-10-29
     - numer limitacji na dekielku (054/2300),
     - czy w komplecie jest karta gwarancyjna (data zakupu),
     - czy powłoka PVD nie ma rys (nowy, ale model z 2020 r. mógł długo leżeć w sklepie).
+
+### #10 – Glycine Combat Sub 42 „Titian” (GL0092)
+- **Cena:** 2 000 zł (bez oznaczenia „do negocjacji”, przycisk „Negocjuj cenę” aktywny); bez Pakietu Ochronnego (kontakt telefon / wiadomość)
+- **Link:** brak (do uzupełnienia)
+- **Data dodania na OLX:** 2026-10-25
+- **Lokalizacja:** brak danych
+- **Marka:** Glycine to szwajcarska marka założona w 1914 r., od 2016 r. należy do Invicta Watch Group
+- **Mechanizm:** szwajcarski automat (napis na tarczy „Swiss Made”). Glycine w Combat Sub stosuje kaliber GL224 na bazie Sellity SW200-1, ale dla tego egzemplarza nie potwierdziłem tego. Rezerwa chodu ok. 38 h (wg sklepu)
+- **Koperta:** stal 316L, 42 mm, grubość ok. 10,6 mm (wg sklepu); jednokierunkowy bezel z różowozłotą obwódką PVD i bordowym wkładem; koronka w kolorze różowego złota; wodoszczelność 20 ATM
+- **Szkło:** szafirowe
+- **Tarcza:** czarna, indeksy i wskazówki w kolorze kremowym/vintage, luma Super-LumiNova, data na 3, skala 24 h (13–24)
+- **Pasek:** czarny, nylonowy, 22 mm
+- **Rok premiery modelu:** 2021
+- **Stan:** używany, sprawny, niewielkie rysy od użytkowania
+- **Komplet:** pudełka i dokumenty
+- **Moje uwagi / ocena ceny:**
+  - Nie znalazłem wiarygodnej ceny tego modelu ani danych o cenach używanych egzemplarzy. Combat Sub 42 w sklepach internetowych sprzedaje się zwykle z dużymi rabatami od ceny katalogowej (Invicta Group), więc cena nowego bywa niewiele wyższa od tego, co chce sprzedający. Zanim kupisz, porównaj z ceną nowego w sklepach (np. glycinestore.eu, Jura Watches).
+  - 2 000 zł za używany egzemplarz wydaje się na górnej granicy. Proponowałbym ok. 1 600–1 700 zł.
+  - Do sprawdzenia:
+    - zdjęcie dekla i karty gwarancyjnej (data zakupu, numer seryjny),
+    - czy bezel klika równo i nie ma luzu,
+    - czy różowa powłoka PVD na bezelu i koronce nie jest przetarta,
+    - dokładność chodu.
 
 <!-- Każda oferta w osobnej sekcji, wg szablonu poniżej -->
 
