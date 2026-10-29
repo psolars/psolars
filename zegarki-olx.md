@@ -16,6 +16,7 @@ Ostatnia aktualizacja: 2026-10-29
 | 8 | Orient | Sun & Moon Open Heart – RA-AS0101S10B (prawdopodobnie) | automat F6L24 (wg sklepów) | 41,5 | używany (brak szczegółów) | brak informacji | 1 150 (do neg.) | – | – | tylko 2 zdjęcia, bardzo skąpy opis |
 | 9 | Orient | Retro Future Camera 70th Anniversary – RA-AR0204G00B | automat F6S22, open heart | 40,8 | nowy, z metką | pudełko 70th (karta/papiery do potwierdzenia) | 1 800 (bez „do neg.”) | Wrocław / Warszawa | – | LE nr 54/2300, model z 2020 r., wycofany |
 | 10 | Glycine | Combat Sub 42 „Titian” – GL0092 | automat szwajcarski (GL224 / baza Sellita SW200-1, do potwierdzenia) | 42 | używany, drobne rysy | pełny (pudełka, dokumenty) | 2 000 (bez „do neg.”) | – | – | nurek 20 ATM, szafir, model z 2021 r. |
+| 11 | Bergstern | Active Worldtimer / GMT – B037G184 | kwarc szwajcarski | 46 | używany, jak nowy (ok. 10 razy noszony) | pełny + paragon z Apart | 1 000 („cena ostateczna”) | Wrocław | – | szafir, 100 m, nowa bateria |
 
 ## Szczegóły ofert
 
@@ -228,6 +229,26 @@ Ostatnia aktualizacja: 2026-10-29
     - czy bezel klika równo i nie ma luzu,
     - czy różowa powłoka PVD na bezelu i koronce nie jest przetarta,
     - dokładność chodu.
+
+### #11 – Bergstern Active Worldtimer (B037G184)
+- **Cena:** 1 000 zł, sprzedający pisze „cena ostateczna”; bez Pakietu Ochronnego (kontakt telefon / wiadomość)
+- **Link:** brak (do uzupełnienia)
+- **Data dodania na OLX:** 2026-10-25
+- **Lokalizacja:** Wrocław, tylko odbiór osobisty
+- **Marka:** Bergstern to marka sprzedawana głównie przez Apart, z oznaczeniem „Swiss Made”
+- **Mechanizm:** szwajcarski kwarc; bateria nowa
+- **Funkcje:** czas światowy / GMT (obrotowy pierścień z nazwami miast, czerwona wskazówka GMT), data w okienku na 6, mały sekundnik na 2–3
+- **Koperta:** stal, 46 mm; wodoszczelność 100 m; dekiel z grawerem mapy świata; czerwony przycisk na 1–2
+- **Szkło:** szafirowe
+- **Tarcza:** czarna z motywem mapy świata, napis „Worldtimer”
+- **Pasek:** czarny, skórzany
+- **Stan:** używany, wg sprzedającego idealny („jak nowy”), noszony najwyżej ok. 10 razy; jeden właściciel
+- **Komplet:** pudełko, pełna dokumentacja ze sklepu i paragon z Apart (gwarancja Bergstern: 3 lata, zależnie od daty zakupu może jeszcze obowiązywać)
+- **Moje uwagi / ocena ceny:**
+  - Nowy w Apart kosztuje ok. 439 EUR, w Grecji ok. 509 EUR. Używany egzemplarz w lombardzie Loombard.pl był wystawiony za 630 zł, a na Allegro używane Bergsterny kosztują ok. 300–330 zł (to różne modele).
+  - 1 000 zł za używany zegarek modowy na kwarcu to moim zdaniem za drogo, mimo kompletu i paragonu. Marka bardzo szybko traci na wartości. Rozsądna cena to ok. 600–700 zł.
+  - „Cena ostateczna”, więc negocjacje mogą nie wyjść. Moim zdaniem nie warto przepłacać.
+  - Do sprawdzenia: data na paragonie (czy jest jeszcze gwarancja), działanie GMT i przestawianie pierścienia miast.
 
 <!-- Każda oferta w osobnej sekcji, wg szablonu poniżej -->
 
