@@ -194,7 +194,7 @@ Kwarcowe:
 - **Data dodania na OLX:** 2026-10-27
 - **Lokalizacja:** Wrocław (odbiór osobisty: Oporów lub Rynek); możliwa wysyłka OLX
 - **Marka:** Zeppelin to niemiecka marka (POINTtec, Monachium); na tarczy napis „Made in Germany”, mechanizm szwajcarski
-- **Mechanizm:** szwajcarski automat, 26 kamieni wg sprzedającego. Wg sklepów ETA 2824-2 albo Sellita SW200; 26 kamieni wskazuje raczej na SW200-1. Przeszklony dekiel
+- **Mechanizm:** szwajcarski automat, 26 kamieni wg sprzedającego. Sklepy podają dla modelu 8452-3 ETA 2824-2 albo Sellita SW200; 26 kamieni wskazuje raczej na SW200-1. Dla tego egzemplarza niepotwierdzone, zapytaj o kaliber i zdjęcie mechanizmu przez dekiel. Przeszklony dekiel
 - **Koperta:** stal szlachetna, 41 mm, grubość 11 mm; wodoszczelność 5 ATM
 - **Szkło:** szafirowe
 - **Tarcza:** granatowa (wg ref. -3), indeksy w kolorze srebrnym lub różowym, data na 3, logo Zeppelin, napis „Atlantic automatic”
@@ -342,7 +342,7 @@ Kwarcowe:
 ### #14 – Bulova Oceanographer „Devil Diver” 96B322 (Loombard, nie OLX)
 - **Cena:** 1 499 zł; odbiór osobisty bezpłatnie, wysyłka 5–8,99 zł
 - **Sprzedawca:** Loombard, punkt przy al. Kromera 6, 51-163 Wrocław, tel. 71 321 53 82; 1 szt.
-- **Mechanizm:** japoński automat Miyota 821D (wg Bulova), ok. 42 h rezerwy, ręczny naciąg; 21 600 A/h. Stop-sekunda wg jednego sklepu, ale 821D zwykle jej nie ma. Wg producenta Miyota ok. -20/+40 s/dobę
+- **Mechanizm:** japoński automat Miyota 821D (wg Bulova), ok. 42 h rezerwy, ręczny naciąg; 21 600 A/h. Stop-sekunda: źródła są sprzeczne (Long Island Watch podaje, że jest). Sprawdź w punkcie: wyciągnij koronkę do ustawiania godziny i zobacz, czy sekundnik staje. Wg producenta Miyota ok. -20/+40 s/dobę
 - **Koperta:** stal, 44 mm, grubość 14,4 mm, uszy 20 mm; jednokierunkowy bezel (czarno-zielony); wodoszczelność 200 m
 - **Szkło:** szafirowe, podwójnie wypukłe („box”)
 - **Tarcza:** zielona, kropkowe indeksy z lumą, data na 3; nawiązanie do Devil Divera z lat 70.
