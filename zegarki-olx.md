@@ -11,6 +11,7 @@ Ostatnia aktualizacja: 2026-10-29
 | 3 | Yves Saint Laurent (licencja) | „Tiger Eye”, koperta owalna / UFO, ref. brak | wg OLX mechaniczny – do weryfikacji (YSL to zwykle kwarc) | 39 bez koronki | używany, rysy, uszkodzenia tarczy | brak (nowy pasek Morellato) | 1 200 (do neg.) | – | – | brak historii serwisowej |
 | 4 | Jaguar (Swiss) | Acamar chronograf J968/2 | kwarc, chronograf | 42 | do potwierdzenia (sprzedaje firma) | pudełko Jaguar na zdjęciach | 1 099,99 | – | – | szafir, 5 bar, Swiss Made |
 | 5 | Atlantic | Worldmaster Original 21 Jewels (lata 60.) | mechaniczny, naciąg ręczny | 37–40 (wg OLX) | używany, po serwisie (wg sprzedającego) | brak, bez paska | 1 200 (do neg.) | – | – | vintage, szkło akrylowe |
+| 6 | Tissot | T-Touch II Titanium – T047.420.47.207.01 (prawdopodobnie) | kwarc ETA E48.311, dotykowe funkcje | ok. 42–43 | używany, bdb, serwis autoryzowany 2025 | pełny + 2 paski | 1 425 | – (preferuje odbiór osobisty) | – | tytan, szafir, 10 bar |
 
 ## Szczegóły ofert
 
@@ -107,6 +108,31 @@ Ostatnia aktualizacja: 2026-10-29
   - Na eBay podobne egzemplarze sprzedawały się za ok. 190–290 USD, czyli mniej więcej 750–1 150 zł. 1 200 zł to górna granica. Ma sens tylko wtedy, gdy serwis jest udokumentowany (rachunek od zegarmistrza).
   - Bez dowodu serwisu i paska celowałbym w ok. 800–900 zł.
   - Do sprawdzenia: rachunek lub potwierdzenie serwisu, zdjęcie mechanizmu (kaliber, czy mechanizm jest oryginalny), czy tarcza nie była odnawiana, czy koperta nie ma przetarć chromu, dokładność chodu.
+
+### #6 – Tissot T-Touch II Titanium (T047.420.47.207.01, prawdopodobnie)
+- **Cena:** 1 425 zł (bez oznaczenia „do negocjacji”, przycisk „Negocjuj cenę” aktywny)
+- **Link:** brak (do uzupełnienia)
+- **Data dodania na OLX:** 2026-10-27
+- **Lokalizacja:** brak danych; sprzedający preferuje odbiór osobisty
+- **Referencja:** w ogłoszeniu „T047420”. Pełną referencję wywnioskowałem z wyglądu: czarna tarcza „carbon” z czerwoną 3 i pomarańczowy gumowy pasek pasują do T047.420.47.207.01 (Orange Rubber Carbon). Warto potwierdzić na dekielku lub w karcie gwarancyjnej
+- **Mechanizm:** szwajcarski kwarc ETA E48.311, na baterię
+- **Funkcje:** dotykowe szkło; wysokościomierz, barometr (meteo), kompas, termometr, alarm, chronograf, minutnik, drugi czas strefowy
+- **Koperta:** tytan; średnica wg sklepów 42–42,7 mm; wodoszczelność 100 m
+- **Szkło:** szafirowe (dotykowe)
+- **Tarcza:** czarna z motywem carbon, czerwone akcenty, wyświetlacz LCD
+- **Pasek:** pomarańczowy gumowy z zapięciem składanym + drugi, oryginalny skórzany w kolorze jasnego brązu
+- **Stan:** używany, bardzo dobry; od nowości u jednego właściciela; wg sprzedającego w 100% sprawny
+- **Serwis:** w 2025 roku w autoryzowanym serwisie wymieniono baterię i wszystkie uszczelki
+- **Komplet:** pudełko, dokumentacja, 2 paski
+- **Moje uwagi / ocena ceny:**
+  - Nowy kosztuje ok. 1 045 EUR (Bucherer), a sklepy w USA dają ok. 770 USD. 1 425 zł za egzemplarz z pełnym kompletem, drugim paskiem i świeżym autoryzowanym serwisem to bardzo dobra cena, chyba najlepszy stosunek ceny do jakości w zestawieniu.
+  - Do sprawdzenia przy odbiorze:
+    - działanie wszystkich funkcji dotykowych (szkło reaguje w każdej strefie),
+    - czy na LCD nie brakuje segmentów,
+    - kalibracja kompasu,
+    - potwierdzenie serwisu (dokument z serwisu),
+    - numer seryjny na dekielku zgodny z kartą gwarancyjną.
+  - Tytan rysuje się łatwiej niż stal. Obejrzyj dokładnie bezel i kopertę.
 
 <!-- Każda oferta w osobnej sekcji, wg szablonu poniżej -->
 
