@@ -48,6 +48,24 @@ Odradzam: #3 YSL, #11 Bergstern, #2 Casio (za drogie względem wartości) oraz #
 
 Werdykt: jeśli kupować tylko jeden, to **#6 Tissot**, bo wygrywa w dwóch z trzech kategorii. Na wartość najlepiej powinien trzymać się **#1 Seiko**, ale to zegarek z motywem anime, nie uniwersalny. Ryzyko przy Tissocie: to zegarek elektroniczny, więc ewentualna naprawa modułu może być droga.
 
+### Ranking mechanizmów
+
+Mechaniczne (od najlepszego):
+
+| Miejsce | Oferta | Kaliber | Uwagi |
+|---|---|---|---|
+| 1 | #7 Zeppelin Atlantic | Sellita SW200-1 / ETA 2824-2 (szwajcarski) | 28 800 A/h (płynny ruch sekundnika), stop-sekunda, ręczny naciąg; standard branży, serwis u każdego zegarmistrza, tanie części; typowo kilka do kilkunastu s/dobę |
+| 1 | #10 Glycine Combat Sub | GL224 (baza SW200-1, do potwierdzenia) | ta sama klasa co Zeppelin |
+| 3 | #13 Citizen Tsuyosa | Citizen 8210 | 21 600 A/h, ok. 42 h, stop-sekunda, ręczny naciąg; solidny japoński kaliber |
+| 4 | #8 / #9 Orient | F6L24 / F6S22 | 21 600 A/h, stop-sekunda, ręczny naciąg; wg producenta -15/+25 s/dobę; własna produkcja |
+| 5 | #1 Seiko One Piece | 4R36 | 21 600 A/h, ok. 41 h; bardzo wytrzymały, ale najmniej dokładny (wg producenta -35/+45 s/dobę) |
+| 6 | #5 Atlantic Worldmaster | vintage, naciąg ręczny (prawdopodobnie Unitas 6300N) | dobry szwajcarski mechanizm, ale ma ok. 60 lat; części i serwis to loteria |
+
+Kwarcowe:
+- **Najdokładniejszy ze wszystkich:** #2 Casio Pro Trek, bo synchronizuje się codziennie z sygnałem radiowym i ładuje się światłem (praktycznie bezobsługowy).
+- **Najbardziej zaawansowany:** #6 Tissot T-Touch II (ETA E48.311, moduł z czujnikami i obsługą dotykową); ewentualna naprawa elektroniki może być droga.
+- Pozostałe (#4 Jaguar, #11 Bergstern, #12 Maurice Lacroix, #3 YSL) to zwykłe szwajcarskie kwarce lub moduły chronografu; w praktyce różnią się niewiele.
+
 ## Szczegóły ofert
 
 ### #1 – Seiko 5 Sports One Piece „Sanji” Limited Edition (SRPH69K1)
