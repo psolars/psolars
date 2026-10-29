@@ -17,6 +17,7 @@ Ostatnia aktualizacja: 2026-10-29
 | 9 | Orient | Retro Future Camera 70th Anniversary – RA-AR0204G00B | automat F6S22, open heart | 40,8 | nowy, z metką | pudełko 70th (karta/papiery do potwierdzenia) | 1 800 (bez „do neg.”) | Wrocław / Warszawa | – | LE nr 54/2300, model z 2020 r., wycofany |
 | 10 | Glycine | Combat Sub 42 „Titian” – GL0092 | automat szwajcarski (GL224 / baza Sellita SW200-1, do potwierdzenia) | 42 | używany, drobne rysy | pełny (pudełka, dokumenty) | 2 000 (bez „do neg.”) | – | – | nurek 20 ATM, szafir, model z 2021 r. |
 | 11 | Bergstern | Active Worldtimer / GMT – B037G184 | kwarc szwajcarski | 46 | używany, jak nowy (ok. 10 razy noszony) | pełny + paragon z Apart | 1 000 („cena ostateczna”) | Wrocław | – | szafir, 100 m, nowa bateria |
+| 12 | Maurice Lacroix | Les Classiques Chronograph Moonphase – LC1048 | kwarc szwajcarski, chronograf + fazy księżyca | 40 | używany, bdb, pasek do wymiany | brak (tylko oryginalna klamra ML) | 1 399 (do neg.) | – | – | szafir, 5 ATM, nowa bateria |
 
 ## Szczegóły ofert
 
@@ -249,6 +250,26 @@ Ostatnia aktualizacja: 2026-10-29
   - 1 000 zł za używany zegarek modowy na kwarcu to moim zdaniem za drogo, mimo kompletu i paragonu. Marka bardzo szybko traci na wartości. Rozsądna cena to ok. 600–700 zł.
   - „Cena ostateczna”, więc negocjacje mogą nie wyjść. Moim zdaniem nie warto przepłacać.
   - Do sprawdzenia: data na paragonie (czy jest jeszcze gwarancja), działanie GMT i przestawianie pierścienia miast.
+
+### #12 – Maurice Lacroix Les Classiques Chronograph Moonphase (LC1048)
+- **Cena:** 1 399 zł (do negocjacji); z Pakietem Ochronnym OLX 1 467,35 zł + dostawa od 0 zł
+- **Link:** brak (do uzupełnienia)
+- **Data dodania na OLX:** 2026-10-25
+- **Lokalizacja:** brak danych
+- **Mechanizm:** szwajcarski kwarc; chronograf, data, fazy księżyca. W parametrach OLX błędnie wpisano „mechaniczny”. Nowa bateria założona u zegarmistrza
+- **Koperta:** stal, 40 mm; uszy 20 mm; wodoszczelność 5 ATM; produkcja ok. 2000–2010
+- **Szkło:** szafirowe; wg sprzedającego bez rys
+- **Tarcza:** srebrzysta, rzymskie cyfry, 2 subtarcze chronografu (na 9 i 3), fazy księżyca na 6, data na ok. 4
+- **Pasek:** oryginalny skórzany, ale tylko jedna część i uszkodzona, do wymiany; w zestawie oryginalna klamra Maurice Lacroix
+- **Stan:** wg sprzedającego koperta bardzo dobra, szkło perfekcyjne, wszystkie funkcje sprawne
+- **Komplet:** brak pudełka i papierów
+- **Moje uwagi / ocena ceny:**
+  - Za granicą używane LC1048 są wystawiane za ok. 295–440 EUR (ok. 1 250–1 900 zł). Na Catawiki wycena wynosiła 550–650 EUR, ale bez ofert i bez osiągnięcia ceny minimalnej. 1 399 zł bez pudełka, bez papierów i z paskiem do wymiany (ok. 100–250 zł) to cena w normie, lekko zawyżona. Na początek negocjacji proponowałbym ok. 1 100–1 200 zł.
+  - Hasło „znacznie poniżej ceny rynkowej” to przesada. To raczej cena rynkowa.
+  - Do sprawdzenia:
+    - czy chronograf zeruje się dokładnie na 12 (wskazówki ustawiają się w pozycji 0),
+    - czy fazy księżyca przestawiają się poprawnie,
+    - pełne zdjęcie dekla (numer referencji i seryjny); na zdjęciu widać „AL612…”, co może być numerem seryjnym.
 
 <!-- Każda oferta w osobnej sekcji, wg szablonu poniżej -->
 
