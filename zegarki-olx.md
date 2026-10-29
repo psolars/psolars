@@ -9,6 +9,7 @@ Ostatnia aktualizacja: 2026-10-29
 | 1 | Seiko | 5 Sports One Piece „Sanji” – SRPH69K1 | automat 4R36 | 42,5 (typowo dla 5KX) | używany, bardzo dobry | pełny (pudełko, faktura, papiery) | 1 250 (do neg.) | Wrocław | – | LE 4215/5000, gwarancja do ~09.2027 |
 | 2 | Casio | Pro Trek PRW-6000Y-1 (czarno-pomarańczowy) | kwarc, Tough Solar + Multiband 6 | ok. 58 (niepotwierdzone) | używany, bardzo dobry | brak pudełka | 1 000 (brak oznaczenia „do neg.”) | – | – | Triple Sensor, model z 2014 r. |
 | 3 | Yves Saint Laurent (licencja) | „Tiger Eye”, koperta owalna / UFO, ref. brak | wg OLX mechaniczny – do weryfikacji (YSL to zwykle kwarc) | 39 bez koronki | używany, rysy, uszkodzenia tarczy | brak (nowy pasek Morellato) | 1 200 (do neg.) | – | – | brak historii serwisowej |
+| 4 | Jaguar (Swiss) | Acamar chronograf J968/2 | kwarc, chronograf | 42 | do potwierdzenia (sprzedaje firma) | pudełko Jaguar na zdjęciach | 1 099,99 | – | – | szafir, 5 bar, Swiss Made |
 
 ## Szczegóły ofert
 
@@ -67,6 +68,26 @@ Ostatnia aktualizacja: 2026-10-29
   - YSL to zegarki modowe produkowane na licencji, więc nie jest to marka zegarmistrzowska. Typowe vintage YSL na kwarcu kosztują za granicą ok. 180–600 USD, a to były głównie modele damskie w lepszym stanie. Tarcza jest uszkodzona, nie ma kompletu ani serwisu. 1 200 zł to moim zdaniem wyraźnie za drogo, rozsądnie byłoby ok. 400–600 zł.
   - Cena miałaby sens tylko wtedy, gdyby tarcza była z prawdziwego kamienia, a mechanizm faktycznie mechaniczny. Poproś o zdjęcie mechanizmu i dekielka (numer referencji).
   - Uszkodzonej tarczy praktycznie nie da się naprawić. Takie łuszczenie może się dalej powiększać.
+
+### #4 – Jaguar Acamar Chronograph J968/2
+- **Cena:** 1 099,99 zł (bez oznaczenia „do negocjacji”); z Pakietem Ochronnym OLX 1 154,59 zł + dostawa od 0 zł
+- **Link:** brak (do uzupełnienia)
+- **Data dodania na OLX:** 2026-10-28, 09:46
+- **Sprzedający / lokalizacja:** firma; lokalizacja: brak danych
+- **Marka:** Jaguar to szwajcarska marka zegarków (grupa Festina), niezwiązana z producentem samochodów
+- **Mechanizm:** szwajcarski kwarc, chronograf (stoper z 3 subtarczami), data na ok. 4:30
+- **Koperta:** stal, 42 mm (wg sklepu Mastersintime); wodoszczelność 5 bar
+- **Szkło:** szafirowe (napis „Sapphire” na tarczy)
+- **Tarcza:** granatowa z gilosz / wzorem koncentrycznym, różowozłote indeksy i wskazówki, cyfra 12
+- **Pasek:** granatowy, skórzany, z wzorem krokodyla, klamra na bolec
+- **Stan:** do potwierdzenia (widoczna tylko końcówka parametru „…ne”, czyli „Nowe” albo „Używane”)
+- **Komplet:** na zdjęciach oryginalne pudełko Jaguar
+- **Opis od sprzedającego:** szablonowa specyfikacja; jest w niej błąd: „cyfry rzymskie”, a tarcza ich nie ma. Pierwsze zdjęcie to zdjęcie katalogowe
+- **Moje uwagi / ocena ceny:**
+  - Za granicą nowy kosztuje ok. 362 USD (Mastersintime). Wersja J968/3 kosztuje ok. 449 EUR. Jeśli zegarek jest nowy, z gwarancją producenta i paragonem lub fakturą, 1 100 zł to uczciwa cena, ale nie okazja.
+  - Jeśli jest używany, cena jest za wysoka. W takim przypadku celowałbym w ok. 700–800 zł.
+  - Zapytaj: nowy czy używany, czy jest karta gwarancyjna, czy wystawią fakturę. Poproś o zdjęcia faktycznego egzemplarza zamiast katalogowych.
+  - Prefiks „U” w „UJ968/2” to najpewniej wewnętrzny kod sprzedawcy, właściwa referencja to J968/2.
 
 <!-- Każda oferta w osobnej sekcji, wg szablonu poniżej -->
 
