@@ -18,6 +18,7 @@ Ostatnia aktualizacja: 2026-10-29
 | 10 | Glycine | Combat Sub 42 „Titian” – GL0092 | automat szwajcarski (GL224 / baza Sellita SW200-1, do potwierdzenia) | 42 | używany, drobne rysy | pełny (pudełka, dokumenty) | 2 000 (bez „do neg.”) | – | – | nurek 20 ATM, szafir, model z 2021 r. |
 | 11 | Bergstern | Active Worldtimer / GMT – B037G184 | kwarc szwajcarski | 46 | używany, jak nowy (ok. 10 razy noszony) | pełny + paragon z Apart | 1 000 („cena ostateczna”) | Wrocław | – | szafir, 100 m, nowa bateria |
 | 12 | Maurice Lacroix | Les Classiques Chronograph Moonphase – LC1048 | kwarc szwajcarski, chronograf + fazy księżyca | 40 | używany, bdb, pasek do wymiany | brak (tylko oryginalna klamra ML) | 1 399 (do neg.) | – | – | szafir, 5 ATM, nowa bateria |
+| 13 | Citizen | Tsuyosa 37 „Time Slip” LE – NJ0200-50E | automat Citizen 8210 | 37 | używany, bdb, drobne ślady | pełny + faktura + ogniwa | 1 400 | – | – | LE 8000 szt. (nienumerowane), szafir, 5 bar |
 
 ## Szczegóły ofert
 
@@ -270,6 +271,26 @@ Ostatnia aktualizacja: 2026-10-29
     - czy chronograf zeruje się dokładnie na 12 (wskazówki ustawiają się w pozycji 0),
     - czy fazy księżyca przestawiają się poprawnie,
     - pełne zdjęcie dekla (numer referencji i seryjny); na zdjęciu widać „AL612…”, co może być numerem seryjnym.
+
+### #13 – Citizen Tsuyosa 37 „Time Slip” Limited Edition (NJ0200-50E)
+- **Cena:** 1 400 zł (bez oznaczenia „do negocjacji”, przycisk „Negocjuj cenę” aktywny); z Pakietem Ochronnym OLX 1 468,40 zł + dostawa od 0 zł
+- **Link:** brak (do uzupełnienia)
+- **Data dodania na OLX:** 2026-10-25
+- **Lokalizacja:** brak danych
+- **Referencja:** NJ0200-50E (w tytule ogłoszenia literówka „NJ020-50E”)
+- **Mechanizm:** automat Citizen 8210 (własny kaliber), rezerwa chodu ok. 42 h
+- **Koperta:** stal, 37 mm, grubość 11,5 mm; wodoszczelność 50 m; przeszklony dekiel
+- **Szkło:** szafirowe (z „bąblem” cyklopa nad datą)
+- **Tarcza:** czarna z dymionym gradientem (fumé) i fakturą, złote wskazówki i indeksy, data na 3
+- **Bransoleta:** stalowa, zintegrowana; skrócona na nadgarstek 16,5 cm, usunięte ogniwa w zestawie
+- **Limitacja:** 8000 szt. na świecie, nienumerowane; premiera 2025
+- **Stan:** używany, bardzo dobry, drobne ślady użytkowania (widoczne na zdjęciach)
+- **Komplet:** oryginalne pudełko, faktura, dokumentacja, akcesoria, usunięte ogniwa
+- **Moje uwagi / ocena ceny:**
+  - Cena katalogowa nowego to 325–329 EUR w Europie (ok. 1 400 zł), 495 USD w USA i 299 GBP w Wielkiej Brytanii. Sprzedający chce za używany egzemplarz tyle, ile kosztuje nowy. To za drogo.
+  - Limitacja 8000 nienumerowanych sztuk raczej nie podnosi wartości. Rozsądnie byłoby ok. 1 000–1 100 zł.
+  - Zanim kupisz, sprawdź, czy da się go jeszcze kupić nowego w sklepie (np. citizenwatch.eu). Jeśli tak, nie ma sensu brać używanego za tę cenę.
+  - Do sprawdzenia: data na fakturze (gwarancja Citizen), rysy na polerowanych fazach koperty i bransolety.
 
 <!-- Każda oferta w osobnej sekcji, wg szablonu poniżej -->
 
